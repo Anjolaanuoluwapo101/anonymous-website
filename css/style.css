@@ -1,0 +1,150 @@
+body{
+
+margin:0;
+width:100%;
+background:rgba(255, 160, 122,0.4);
+min-height:100%;
+}
+
+
+html{
+max-width:1000px;
+max-height:1500px;
+max-width:1000px;
+padding:0;
+margin:0;
+margin-bottom:0!important;
+}
+
+.secretVilleLogo {
+display:inline-block;
+margin-left:10px;
+height:90px;
+vertical-align:middle;
+
+}
+
+
+
+.board{
+width:100%;
+margin-left:10%!important;
+}
+
+
+.navigation{
+position:fixed;
+top:0;
+left:0;
+width:100%;
+height:90px;
+line-height:90px;
+border:1px solid silver;
+}
+
+
+.spanForm{
+display:block;
+text-align:center;
+}
+
+
+.parentDiv{
+margin-top:300px;
+width:90%;
+margin-left:5%;
+border-radius:20px;
+border:1px solid silver;
+padding:100px;
+background:rgba(255, 160, 122,0.5);
+//margin-bottom:300px;
+}
+
+.navigation a{
+text-decoration:none;
+}
+
+.showMenu{
+position:fixed;
+top:90px;
+left:0;
+width: 100%!important;
+display:none;
+}
+
+.showMenu a{
+display:block;
+height: 80px;
+margin-bottom:0px;
+border:1px solid sienna;
+border-top:0px;
+vertical-align:middle;
+text-align:center;
+line-height:80px;
+text-decoration:none;
+font-size:12px;
+font-family:cursive;
+font-weight:bolder;
+background:rgba(255, 160, 122,1);
+}
+
+
+label{
+font-family:cursive;
+color:sienna;
+}
+
+form button {
+float:right;
+width:110px;
+color:sienna;
+background-color:rgba(139, 69, 19,0.5)!important;
+
+}
+
+.messageDiv{
+width:100%;
+}
+
+.textDiv{
+border:1px solid;
+border-color:rgba(139,69,19,0.3);
+display:flex;
+align-items:center;
+justify-content:center;
+min-height:100px;
+width:100%;
+margin-bottom:7px;
+border-radius:20px;
+}
+
+.timeDiv{
+border:1px solid;
+border-color:rgba(139,69,19,0.3);
+display:flex;
+align-items:center;
+justify-content:center;
+height:60px;
+width:70%;
+margin-left:15%;
+border-radius:20px;
+}
+
+.footer{
+position:fixed;
+bottom:0;
+left:0;
+border-top-left-radius:30px;
+border-top-right-radius:30px;
+height:200px;
+width:100%;
+background:rgba(255, 160, 122,0.5);
+text-align:center;
+padding-top:30px;
+}
+
+.infoBoard{
+width:100%;
+margin-left:10%;
+text-align:center;
+}
