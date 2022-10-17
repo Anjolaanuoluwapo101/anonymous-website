@@ -1,4 +1,7 @@
-# anonymous-website just like kubool
+# anonymous-message-website just like kubool
+Allows you send anonymous messages to your friends without them
+knowing who sent it.
+
 LINK:https://twilightmessage.000webhostapp.com/project_1/
 
 This is my first project on php; At this point I haven't learnt 
